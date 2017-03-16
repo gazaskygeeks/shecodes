@@ -19,9 +19,9 @@ These are peer-led coding sessions, focusing on learning JavaScript and supporte
 
 ### Steps
 
-1. Create gmail account in professional way (examples: yourname.yourfamilyname@gmail.com or firstletterofyourname.yourfamilyname@gmail.com)
+1. Create [gmail](https://accounts.google.com/SignUp) account in professional way (examples: yourname.yourfamilyname@gmail.com or firstletterofyourname.yourfamilyname@gmail.com)
 2. Create account on Linked In
-3. Create account on Github
-4. Join Our channel on Gitter
-5. Signup to Free Code Camp
-6. Signup to Codewars
+3. Create account on [Github](https://github.com)
+4. Join Our channel on [Gitter](https://gitter.im/femalescodningclub/Lobby)
+5. Signup to [Free Code Camp](https://github.com)
+6. Signup to [Codewars](https://www.codewars.com)
