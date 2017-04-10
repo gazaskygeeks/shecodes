@@ -6,6 +6,9 @@ Gaza Sky Geeks runs a weekly no-fee  Coding Club. This Girls Meetup is the "Gaza
 
 These are peer-led coding sessions, focusing on learning JavaScript and supported by GSG alumni.
 
+### Period
+From Feb, 2017 to June, 2017
+
 ##### These sessions are suitable for:
 
 - Girls in IT/CE or business colleges
