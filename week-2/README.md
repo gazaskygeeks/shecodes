@@ -10,6 +10,8 @@ You will also be continue your introduction to Javascript through some simple ex
 ### HTML & CSS
 We recommend that you use the excellent HTML & CSS exercises provided by [FreeCodeCamp](https://www.freecodecamp.org/). Open up the "Map", and then try to complete as many of the HTML & CSS exercises as you can.
 
+**Bonus**: Try to complete as much of [CSS Diner](https://flukeout.github.io/) as you can.
+
 ### JavaScript
 There are several online resources to help you learn the basics of JavaScript.
 
