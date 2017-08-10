@@ -13,6 +13,8 @@ You can find an introduction to using the Git and GitHub throw this course  [her
 
 Also, [here](https://www.atlassian.com/git/tutorials/what-is-version-control) is a good tutorial for understanding git and github.
 
+This [site](http://guides.beanstalkapp.com/version-control/common-git-commands.html) provides the common git commands.
+
 
 
 ### JavaScript
