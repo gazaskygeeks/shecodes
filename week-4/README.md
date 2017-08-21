@@ -19,8 +19,10 @@
 - putting links and photos inside the readme
 
 ## One Hour JAVASCRIPT
-- resource: codeacademy.com; suitable for most of them
-- solving 10-15 exercises
+- Start with the Basic JavaScript track on FreeCodeCamp, suitable for most of them
+- Solving 10-15 exercises
+- Start with Codewars JavaScript exercises 
+
 
 
 ## Homework
