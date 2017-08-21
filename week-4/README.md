@@ -1,7 +1,8 @@
-#Week-4
+# Week-4
+***********************************************
 
-###Reviewing Previous weeks material (JavaScript-HTML-Git/Github)
-******************************************
+### Reviewing Previous weeks material (JavaScript-HTML-Git/Github)
+
 
 ## One Hour Workshop:
 - building simple personal website
@@ -13,21 +14,21 @@
 - steps of how to write good commit messeges
 
 
-###Why we should have README's && Introduction to MarkDownLangauge 
+### Why we should have README's && Introduction to MarkDownLangauge 
 - initiating readme.md inside the repository 
 - putting links and photos inside the readme
 
-##One Hour JAVASCRIPT
+## One Hour JAVASCRIPT
 - resource: codeacademy.com; suitable for most of them
 - solving 10-15 exercises
 
 
-##Homework
+## Homework
 - complete the website they started with a one block at least
 - pushed the code on githubpages branch for review
 
-##Expected in the next session 
+## Expected in the next session 
 - having some JavaScript inside the website 
 
-####Monday,21st August 2017
+#### Monday,21st August 2017
 
